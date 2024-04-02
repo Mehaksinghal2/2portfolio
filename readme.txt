@@ -18,7 +18,7 @@ Version 1.0 14-05-2018
 - initial release 
 
 
-Credits:
+credits:
 -----------------------
 - Twitter Bootstrap http://getbootstrap.com
 - jQuery http://jquery.org
