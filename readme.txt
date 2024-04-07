@@ -9,7 +9,7 @@ Template Info:
 -----------------------
 Name: 		Browny - Free Bootstrap One Page Portfolio Resume Tempalte
 Version: 	1.0
-Author: 	ThemeSINE
+Author: 	themeSINE
 Website: 	https://www.themesine.com/
 
 
